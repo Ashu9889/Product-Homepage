@@ -1,0 +1,155 @@
+
+*{
+   padding: 0;
+   margin: 0;
+   /* background-color: blue; */
+}
+
+.nav-items{
+    float: left;
+    margin: 30px 67px 0 80px ;
+}
+
+.active-item{
+    color: #EA5C2B;
+}
+
+.nav-item{
+    display: inline;
+    padding: 0 40px 0 40px;
+    font-size: 20px;
+    font-family: Poppins;
+} 
+.intro-section{
+    display: flex;
+    width: 100%;
+    height: 100%;
+ 
+}
+.left-section{
+    
+    text-align:left;
+    flex-grow: 1;
+    margin: 68px 90px;
+}
+
+h3{
+    font-size: 33px;
+    font-family:sans-serif;
+    margin-bottom: 20px;
+}
+h3 img{
+    width: 40px;
+    height: 40px;
+}
+
+h1{
+    font-size: 64px;
+    font-family: Fredoka One;
+}
+.sub-headlines{
+    margin-left: 81px;
+    margin-top: 30px;
+    /* background-color: aquamarine; */
+}
+.sub-headline{
+    font-size: 25px;
+    font-family: poppins;
+    margin-bottom: 22px ;
+}
+
+.sub-headline img{
+    background-color: #EA5C2B;
+    padding: 9px;
+    width: 15px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-bottom: -4px;
+}
+
+.text{
+    font-family: sans-serif;
+    margin-bottom: 50px;
+    color:grey;
+    width:60%
+}
+
+.action-btns .action-btn{
+    padding: 15px 30px 15px 30px;
+    color: white;
+    background-color: #EA5C2B;
+    border: unset;
+    font-size: 20px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.right-section{
+    flex-grow: 1;
+}
+
+.headphone-div{
+
+}
+.headphone{
+    position: absolute;
+    top: 110px;
+    right: 282px;
+    z-index: -1;
+    width: 27%;
+}
+.discount{
+    position: relative;
+    right: 605px;
+    bottom: -263px;
+    width: 98%;
+}
+.discount-content{
+    position: relative;
+    top: 148px;
+    right: 572px;
+    color: white;
+    /* font-size: 2px; */
+}
+.discount-content h1{
+    font-size: 42px;
+}
+
+.action-bt{
+    padding: 17px 21px 17px 24px;
+    color: white;
+    background-color: #EA5C2B;
+    border: unset;
+    font-size: 15px;
+    border-radius: 25px;
+    position: relative;
+    top: 268px;
+    right: 397px;
+}
+.dots{
+    position: relative;
+    top: 231px;
+    right: 401px;
+ 
+}
+.dot{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+     border-radius: 20px;
+    
+}
+.yellow-dot{
+    background-color: yellow;
+
+    
+}
+.tomato-dot{
+    background-color:#EA5C2B;
+}
+
+.black-dot{
+    background-color: black;
+}
