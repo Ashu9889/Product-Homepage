@@ -41,5 +41,5 @@
 
 <br>
 <p align="center">
-<img src="./images/Mobileview.png" max-width=600px>
+<img src="./images/Mobileview.PNG" max-width=600px>
 </p>
