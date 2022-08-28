@@ -15,7 +15,7 @@
 
 ---
 
-### Checkout the live website [here](https://celebrated-pika-7b0296.netlify.app/).
+### Checkout the live website [here](https://product-homepage-eight.vercel.app/).
 
 ---
 
